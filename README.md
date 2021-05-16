@@ -5,7 +5,7 @@
 In this app you will be building a Choose Your Own adventure game like Bandersnatch.
 
 
-## What we will build
+## What we will create
 
 It's a Destiny App which lets you choose you choose between things and whatever decision u make decides your future in the game.
 
